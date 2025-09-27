@@ -21,10 +21,11 @@
 
 <h2 align="left">🤝 Lets Connect!</h2>
 <p align="left">
-  <!-- Gmail -->
+
+<!-- Gmail -->
   <a href="mailto:hemasree9767@gmail.com" style="text-decoration:none;border:0;">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="32" height="32"/>
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="32" height="32" style="margin: 0 20px;"/>
+  </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/hemasree-randhi-6a4b6a7b" style="text-decoration:none;border:0;">
@@ -42,7 +43,7 @@
   </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Substack -->
-  <a href="https://substack.com/@randhihemasree">
+  <a href="https://substack.com/?utm_campaign=profile_chips">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/substack.svg" alt="Substack" width="32" style="color:#FF6719;" />
   </a>&nbsp;&nbsp;&nbsp;
 
@@ -167,7 +168,6 @@ Evaluation metrics included <b>accuracy, precision, recall, and F1-score</b>.
   <img src="https://github-readme-stats.vercel.app/api?username=hrandhi-5303&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrandhi-5303&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
-
 
 
 
