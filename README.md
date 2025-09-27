@@ -19,37 +19,37 @@
   <b> I enjoy building scalable web applications and cloud-native platforms that solve real-world problems. My experience spans Django, React, and RESTful APIs, with deployments on AWS using Terraform, Docker, and CI/CD pipelines. I like writing clean, testable code and turning complex challenges into reliable, high-performance solutions.</b>
 </p>
 
-<h2 align="left">🤝 Lets Connect!</h2>
-<p align="left">
+<h2 align="left">🤝 Let's Connect!</h2>
 
-<!-- Gmail -->
-  <a href="mailto:hemasree9767@gmail.com" style="text-decoration:none;border:0;">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="32" height="32" style="margin: 0 20px;"/>
+<p align="left">
+  <!-- Gmail -->
+  <a href="mailto:hemasree9767@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="32" hspace="10"/>
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/hemasree-randhi-6a4b6a7b" style="text-decoration:none;border:0;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="32" height="32"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hemasree-randhi-6a4b6a7b">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" hspace="10"/>
+  </a>
 
   <!-- Medium -->
-  <a href="https://medium.com/@randhihemasree" style="text-decoration:none;border:0;">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" width="32" height="32"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@randhihemasree">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="32" hspace="10"/>
+  </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/hemasree_randhi" style="text-decoration:none;border:0;">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" width="32" height="32"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/hemasree_randhi">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="32" hspace="10"/>
+  </a>
 
   <!-- Substack -->
-  <a href="https://substack.com/?utm_campaign=profile_chips">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/substack.svg" alt="Substack" width="32" style="color:#FF6719;" />
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://substack.com/@hemasreerandhi">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/substack.svg" alt="Substack" width="32" hspace="10"/>
+  </a>
 
   <!-- Resume -->
-  <a href="https://drive.google.com/file/d/1ZAZR-hZWvAUwPYiTE3iVSL7U57kjfOH-/view?usp=sharing" style="text-decoration:none;border:0;">
-    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" alt="Resume" width="32" height="32"/>
+  <a href="https://drive.google.com/file/d/1ZAZR-hZWvAUwPYiTE3iVSL7U57kjfOH-/view?usp=sharing">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" alt="Resume" width="32" hspace="10"/>
   </a>
 </p>
 
@@ -168,6 +168,7 @@ Evaluation metrics included <b>accuracy, precision, recall, and F1-score</b>.
   <img src="https://github-readme-stats.vercel.app/api?username=hrandhi-5303&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrandhi-5303&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
+
 
 
 
