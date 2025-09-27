@@ -24,34 +24,35 @@
 <p align="left">
   <!-- Gmail -->
   <a href="mailto:hemasree9767@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="32" hspace="10"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/hemasree-randhi-6a4b6a7b">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" hspace="10"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <!-- Medium -->
   <a href="https://medium.com/@randhihemasree">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="32" hspace="10"/>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/hemasree_randhi">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="32" hspace="10"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 
   <!-- Substack -->
   <a href="https://substack.com/@hemasreerandhi">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/substack.svg" alt="Substack" width="32" hspace="10"/>
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/>
   </a>
 
   <!-- Resume -->
   <a href="https://drive.google.com/file/d/1ZAZR-hZWvAUwPYiTE3iVSL7U57kjfOH-/view?usp=sharing">
-    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" alt="Resume" width="32" hspace="10"/>
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
 </p>
+
 
 <h2 align="left">💼 Experience</h2>
 
