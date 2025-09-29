@@ -53,6 +53,13 @@
   </a>
 </p>
 
+<a href="https://hemasreerandhi.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+
+
+
 
 <h2 align="left">💼 Experience</h2>
 
